@@ -1,0 +1,12 @@
+org\mcbx\database\relationship\test\ConfigRelationship.class
+org\mcbx\service\AuthorsService.class
+org\mcbx\test\AppTest.class
+org\mcbx\database\relationship\test\AppRelationship.class
+org\mcbx\entityinterface\AuthorsInterface.class
+org\mcbx\controller\AppController.class
+org\mcbx\database\relationship\test\EmployeeService.class
+org\mcbx\entity\Members.class
+org\mcbx\test\Config.class
+org\mcbx\database\relationship\test\Employee.class
+org\mcbx\entity\Authors.class
+org\mcbx\database\relationship\test\Address.class

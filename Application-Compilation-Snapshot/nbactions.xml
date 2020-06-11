@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-dependency:copy-dependencies</actionName>
+            <displayName>dependency:copy-dependencies</displayName>
+            <goals>
+                <goal>dependency:copy-dependencies</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-clean:clean</actionName>
+            <displayName>clean:clean</displayName>
+            <goals>
+                <goal>clean:clean</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-compiler:compile</actionName>
+            <displayName>compiler:compile</displayName>
+            <goals>
+                <goal>compiler:compile</goal>
+            </goals>
+        </action>
+    </actions>
