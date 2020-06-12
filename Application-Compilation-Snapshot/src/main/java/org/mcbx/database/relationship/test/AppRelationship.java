@@ -10,7 +10,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 public class AppRelationship {
 
     public static void main(String[] args) {
-        SpringApplication.run(AppTest.class, args);
+        SpringApplication.run(AppTest.class, args); 
+        
         ApplicationContext context = new AnnotationConfigApplicationContext(ConfigRelationship.class);
         EmployeeService service = context.getBean("employeeService", EmployeeService.class);
 

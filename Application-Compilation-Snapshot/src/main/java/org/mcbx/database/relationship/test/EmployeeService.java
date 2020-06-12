@@ -30,7 +30,7 @@ public class EmployeeService {
         try {
 //------------------------------------------------------------------------------ 1
 //            batchProcessing_UPDATE();
-//------------------------------------------------------------------------------ 2
+//------------------------------------------------------------------------------ 2 CREATE   [HIBERNATE QUERY LANGUAGE]
 //            Address a1 = new Address("Davao City");
 //            Employee e1 = new Employee("Kenneth Mabandos", a1);
 //

@@ -12,7 +12,15 @@ import javax.persistence.Id;
 import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
 import javax.persistence.OneToMany;
- 
+/*
+This Class is Auto-Generated, To Set-UP.
+On "Window-->Services" Create new (Dabatase) if you don't have one and Connect into your "Database".
+Then for creating this Entity Class.
+On you Project Source Package Create (New-->Other...) (Category-->Persistence) (File Types-->Entity Class from Database).
+Then a little bit modification for your Constructor for creating an Object. Up to you.
+Or Google it on how to create Entity Class from your databases using netbeans or any flatform.
+Remove this if too annoying. (T_T)
+ */
 @Entity
 @NamedQueries({
     @NamedQuery(name = "Address.findAll", query = "SELECT a FROM Address a")})
